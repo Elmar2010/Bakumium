@@ -9,3 +9,5 @@ Bakumium'da Telerik üzərində işlənilmiş Google Chrome Tipli Arayüz və Mo
 ✅Axtarışda doğru qeydlər
 ✅Modern düymələr və s.
 
+![Bakumium](google_chromium_alt.png)
+
