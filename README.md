@@ -1,3 +1,5 @@
+![Bakumium]()
+
 # Bakumium
 Azərbaycanda ilk Web Brauzer olan Bakumium'un Alpha versiyası təqdim edilmişdir.
 
